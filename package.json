@@ -1,5 +1,6 @@
 {
   "name": "chaseportfolio",
+  "homepage": "https://serene-castle-05847.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
